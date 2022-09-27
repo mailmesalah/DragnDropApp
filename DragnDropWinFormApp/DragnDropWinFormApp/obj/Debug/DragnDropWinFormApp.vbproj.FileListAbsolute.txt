@@ -1,0 +1,16 @@
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\obj\Debug\DragnDropWinFormApp.FormMain.resources
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\obj\Debug\DragnDropWinFormApp.Resources.resources
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\obj\Debug\DragnDropWinFormApp.vbproj.GenerateResource.Cache
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\obj\Debug\DragnDropWinFormApp.exe
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\obj\Debug\DragnDropWinFormApp.xml
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\obj\Debug\DragnDropWinFormApp.pdb
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\bin\Debug\DragnDropWinFormApp.exe.config
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\obj\Debug\DragnDropWinFormApp.vbprojResolveAssemblyReference.cache
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\bin\Debug\DragnDropWinFormApp.exe.manifest
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\bin\Debug\DragnDropWinFormApp.application
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\bin\Debug\DragnDropWinFormApp.exe
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\bin\Debug\DragnDropWinFormApp.pdb
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\bin\Debug\DragnDropWinFormApp.xml
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\obj\Debug\DragnDropWinFormApp.exe.manifest
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\obj\Debug\DragnDropWinFormApp.application
+D:\DragnDropApp\DragnDropWinFormApp\DragnDropWinFormApp\obj\Debug\DragnDropWinFormApp.FormStoryTeller.resources
